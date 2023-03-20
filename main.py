@@ -131,3 +131,4 @@ while is_working:
         player_rect = player_rect.move(player_speed, 0)
 
     pygame.display.flip()
+
